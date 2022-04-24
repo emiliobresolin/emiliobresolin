@@ -30,4 +30,4 @@
 </div>
 
 ###
-![Snake animation](https://github.com/emiliobresolin/emiliobresolin/blob/output/github-contribution-grid-snake.svg)
+
