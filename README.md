@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- :mag_right: Currently aiming to be a great software developer.
+- :floppy_disk: Currently Aiming to be a Great Software Developer.
 - :computer: Studying System Analysis and Development.
 
 <div>
