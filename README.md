@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- :mag_right: Currently looking for my first job as a developer.
+- :mag_right: Currently aiming to be a great software developer.
 - :computer: Studying System Analysis and Development.
 
 <div>
