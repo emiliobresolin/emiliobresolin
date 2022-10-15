@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- :floppy_disk: Currently Aiming to be a Great Software Developer.
+- :floppy_disk: Currently Aiming to be a the Greatest Software Developer.
 - :computer: Studying System Analysis and Development.
 
 <div>
