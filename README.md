@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align"center" alt="Emilio-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align"center" alt="Emilio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
-  <img align"center" alt="Emilio-cpq" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d554fcefe65894ee5ce15deee9215fc7/oracle-cpq.png"/>
+  <img align"center" alt="Emilio-cpq" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_ym9sDCv_o3bOoORwbX9893EAnWbWhpXe4M7i7JKZx_dwhzIfNL6DbkaG7C9Rpap28U&usqp=CAU"/>
   <img align"center" alt="Emilio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 </div>
 
