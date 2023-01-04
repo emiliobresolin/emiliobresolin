@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- :computer: Studying System Analysis and Development (5/5).
+- :computer: Graduate Degree in System Analysis and Development.
 
 <div>
   <a href="https://github.com/emiliobresolin">
