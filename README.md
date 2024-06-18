@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - :computer: Graduate Degree in System Analysis and Development.
-- :earth_africa: https://emiliobresolin.github.io/
+- :electron: Master’s Degree student in Computer Science.
 
 <div>
   <a href="https://github.com/emiliobresolin">
