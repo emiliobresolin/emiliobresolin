@@ -15,7 +15,6 @@
   <img align"center" alt="Emilio-CS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align"center" alt="Emilio-C" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
   <img align"center" alt="Emilio-cpq" height="70" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_ym9sDCv_o3bOoORwbX9893EAnWbWhpXe4M7i7JKZx_dwhzIfNL6DbkaG7C9Rpap28U&usqp=CAU"/>
-  <img align"center" alt="Emilio-JS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 </div>
 
 ###
