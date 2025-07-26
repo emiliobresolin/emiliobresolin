@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - :computer: Graduate Degree in System Analysis and Development (1/2023).
-- :computer: Computer Science Master’s Degree Student (2/2025).
+- :computer: Computer Science Master’s Degree Student (2/2026).
 
 <div>
   <a href="https://github.com/emiliobresolin">
