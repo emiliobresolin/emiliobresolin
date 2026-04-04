@@ -1,12 +1,19 @@
 ### Hello World 👋
 
-- 💻 Graduate Degree in Systems Analysis and Development (01/2023)
-- 💻 Computer Science Master’s Degree Student (02/2026)
+- :computer: Graduate Degree in Systems Analysis and Development (1/2023).
+- :computer: Computer Science Master’s Degree Student (2/2026).
 
-[![Top Languages](./profile/top-langs.svg)](https://github.com/emiliobresolin)
-[![GitHub Stats](./profile/stats.svg)](https://github.com/emiliobresolin)
-
+<a href="https://github.com/emiliobresolin">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</a>
+<a href="https://github.com/emiliobresolin">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</a>
 
 ### ⚉ FIND ME! ⇊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-bresolin-86a39bb7)
+<div>
+  <a href="https://www.linkedin.com/in/emilio-bresolin-86a39bb7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
