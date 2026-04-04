@@ -3,7 +3,9 @@
 - 💻 Graduate Degree in Systems Analysis and Development (01/2023)
 - 💻 Computer Science Master’s Degree Student (02/2026)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliobresolin&layout=compact&langs_count=16&theme=nord)](https://github.com/emiliobresolin)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/emiliobresolin)
+[![GitHub Stats](./profile/stats.svg)](https://github.com/emiliobresolin)
+
 
 ### ⚉ FIND ME! ⇊
 
