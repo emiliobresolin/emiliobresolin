@@ -1,19 +1,50 @@
-### Hello World 👋
+name: Update README cards
 
-- :computer: Graduate Degree in Systems Analysis and Development (1/2023).
-- :computer: Computer Science Master’s Degree Student (2/2026).
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
-<a href="https://github.com/emiliobresolin">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</a>
-<a href="https://github.com/emiliobresolin">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-</a>
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-### ⚉ FIND ME! ⇊
+    permissions:
+      contents: write
 
-<div>
-  <a href="https://www.linkedin.com/in/emilio-bresolin-86a39bb7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure profile directory exists
+        run: mkdir -p profile
+
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=nord&hide_border=true'
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=nord&hide_border=true'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update README cards"
+          git push
