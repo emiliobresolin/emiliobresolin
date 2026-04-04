@@ -1,12 +1,7 @@
 ### Hello World 👋
 
-- 💻 Graduate Degree in Systems Analysis and Development (1/2023)
-- 💻 Computer Science Master's Degree Student (2/2026)
-
-<div align="center">
-  <img height="180em" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="180em" src="./profile/top-langs.svg" alt="Top languages" />
-</div>
+- 💻 Graduated Degree in Systems Analysis and Development (1/2023)
+- 💻 Graduate Computer Science Master's Degree (2/2026)
 
 ### Find me
 
