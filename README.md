@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 💻 Graduated Degree in Systems Analysis and Development (1/2023)
-- 💻 Graduate Computer Science Master's Degree (2/2026)
+- 💻 Graduate Master's Degree in Computer Science (2/2026)
 
 ### Find me
 
